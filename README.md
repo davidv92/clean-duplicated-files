@@ -1,6 +1,6 @@
 
 
-# clean-duplicated-files [![example workflow name](https://github.com/glae/clean-duplicated-files/workflows/build/badge.svg)](https://github.com/glae/clean-duplicated-files/actions)
+# clean-duplicated-files [![example workflow name](https://github.com/davidv92/clean-duplicated-files/workflows/build/badge.svg)](https://github.com/davidv92/clean-duplicated-files/actions)
  
 ## Purpose
 
